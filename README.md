@@ -20,10 +20,16 @@ Below is a side by side of the base code (left) and the refactored code (right).
 
 
 ## Stock Analysis
+Circling back to Steve's original question, what do the stocks look like? Each year returned very different results. In 2017, 11 out of 12 had a positive return. In 2018, only 2 out of 12 had a positive return. Out of all of the stocks, ENPH had the best net return over the 2 year span, and was one of only 2 companies with a positive return both years. Before investing solely off of return, Steve should look at the company more in depth and their outlook, but purely based off of the numbers ENPH is easily the best choice.
 
 ### 2017
+Below is the data for 2017. We can also view the runtime from running the refactored code.
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/91795475/138581030-b2d6b7c0-d9b5-40ef-80f2-b0657e0176a5.PNG)
 
 ### 2018
+Below is the data for 2018. We can also view the runtime from running the refactored code.
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/91795475/138581033-567e3bb5-99e2-44d9-b679-760166de8b30.PNG)
+
 
 
 ## Summary
