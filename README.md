@@ -22,3 +22,7 @@ The code we refactored for the challenge assignment followed many of the same st
 
 
 ## Summary
+
+[//]: # (advantages and disadvantages of refactoring code in general: more efficient, less run time, but takes time to refactor and may not necessarily make it better)
+
+[//]: # (advantages and disadvantages of original and refactored script: able to recall all elements in array for refactored, quicker runtime in refactored. Took about 5 hours to run one second quicker)
