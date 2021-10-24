@@ -12,6 +12,13 @@ After creating a subroutine to write our code, we started out declared some key 
 ### Differences in Refactored Code
 The code we refactored for the challenge assignment followed many of the same steps, albeit a few differences. The main difference was that instead of using a variable to store the total volume, starting prices, and ending prices, we used an array of size 12 where each index corresponded with the 12 tickers. We then moved the code that printed those values outside of the loop and into its own loop since we had all of the values stored in arrays. The previous code erased those values when moving to the next ticker so we had to print them inside the loop before the next iteration.
 
- 
+[//]: # (add images)
+
+## Stock Analysis
+
+### 2017
+
+### 2018
+
 
 ## Summary
