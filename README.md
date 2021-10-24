@@ -12,7 +12,12 @@ After creating a subroutine to write our code, we started out declared some key 
 ### Differences in Refactored Code
 The code we refactored for the challenge assignment followed many of the same steps, albeit a few differences. The main difference was that instead of using a variable to store the total volume, starting prices, and ending prices, we used an array of size 12 where each index corresponded with the 12 tickers. We then moved the code that printed those values outside of the loop and into its own loop since we had all of the values stored in arrays. The previous code erased those values when moving to the next ticker so we had to print them inside the loop before the next iteration.
 
-[//]: # (add images)
+Below is a side by side of the base code (left) and the refactored code (right).
+
+![beginning_of_code](https://user-images.githubusercontent.com/91795475/138580996-bfc34506-abc9-49c0-bd0d-8f88bad60234.PNG)
+
+![end_of_code](https://user-images.githubusercontent.com/91795475/138580999-fe49da70-57d6-4c22-af25-e15d7c037e47.PNG)
+
 
 ## Stock Analysis
 
